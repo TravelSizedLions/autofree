@@ -1,0 +1,7 @@
+{
+  "$schema": "https://chickensoft.games/schemas/addons.schema.json",
+  "name": "autofree",
+  "description": "Singleton utility class for automatically managing resources.",
+  "version": "0.0.0",
+  "addons": {}
+}
