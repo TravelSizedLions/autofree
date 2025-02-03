@@ -2,7 +2,7 @@
   "$schema": "https://chickensoft.games/schemas/addons.schema.json",
   "name": "autofree",
   "description": "An Autoloader utility class for automatically managing resources.",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "cache": "../.addons",
   "addons": {}
 }
