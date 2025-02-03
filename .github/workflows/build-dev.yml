@@ -12,4 +12,5 @@ jobs:
 
   version-bump:
     name: Versioning
+    needs: test
     uses: TravelSizedLions/actions/.github/workflows/bump-patch.yaml@dev
