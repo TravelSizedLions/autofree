@@ -6,6 +6,10 @@ on:
       - "dev"
   
 jobs:
+  test:
+    name: Verification
+    uses: TravelSizedLions/actions/.github/workflows/test-drive.yaml@dev
+
   version-bump:
     name: Versioning
     uses: TravelSizedLions/actions/.github/workflows/bump-patch.yaml@dev
